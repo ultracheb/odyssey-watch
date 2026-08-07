@@ -7,14 +7,6 @@
   "sold_out": false,
   "when": "2026-08-08T09:00:00"
  },
- "220728": {
-  "film": "Odyssea",
-  "hall": "IMAX VOLVO",
-  "link": "https://tickets.cinemacity.cz/api/order/220728",
-  "ratio": 0.0078,
-  "sold_out": false,
-  "when": "2026-08-07T20:30:00"
- },
  "220730": {
   "film": "Odyssea",
   "hall": "IMAX VOLVO",
@@ -51,7 +43,7 @@
   "film": "Odyssea",
   "hall": "IMAX VOLVO",
   "link": "https://tickets.cinemacity.cz/api/order/220734",
-  "ratio": 0.0182,
+  "ratio": 0.013,
   "sold_out": false,
   "when": "2026-08-09T12:50:00"
  },
@@ -171,7 +163,7 @@
   "film": "Odyssea",
   "hall": "IMAX VOLVO",
   "link": "https://tickets.cinemacity.cz/api/order/224479",
-  "ratio": 0.0156,
+  "ratio": 0.0182,
   "sold_out": false,
   "when": "2026-08-13T09:00:00"
  },
@@ -307,7 +299,7 @@
   "film": "Odyssea",
   "hall": "IMAX VOLVO",
   "link": "https://tickets.cinemacity.cz/api/order/224496",
-  "ratio": 0.0364,
+  "ratio": 0.0338,
   "sold_out": false,
   "when": "2026-08-17T12:50:00"
  },
@@ -323,7 +315,7 @@
   "film": "Odyssea",
   "hall": "IMAX VOLVO",
   "link": "https://tickets.cinemacity.cz/api/order/224498",
-  "ratio": 0.026,
+  "ratio": 0.0234,
   "sold_out": false,
   "when": "2026-08-17T20:30:00"
  },
@@ -427,7 +419,7 @@
   "film": "Odyssea",
   "hall": "IMAX VOLVO",
   "link": "https://tickets.cinemacity.cz/api/order/224511",
-  "ratio": 0.0675,
+  "ratio": 0.0545,
   "sold_out": false,
   "when": "2026-08-21T09:00:00"
  },
@@ -443,7 +435,7 @@
   "film": "Odyssea",
   "hall": "IMAX VOLVO",
   "link": "https://tickets.cinemacity.cz/api/order/224513",
-  "ratio": 0.039,
+  "ratio": 0.0338,
   "sold_out": false,
   "when": "2026-08-21T16:40:00"
  },
@@ -491,7 +483,7 @@
   "film": "Odyssea",
   "hall": "IMAX VOLVO",
   "link": "https://tickets.cinemacity.cz/api/order/224519",
-  "ratio": 0.0338,
+  "ratio": 0.026,
   "sold_out": false,
   "when": "2026-08-23T09:00:00"
  },
@@ -507,7 +499,7 @@
   "film": "Odyssea",
   "hall": "IMAX VOLVO",
   "link": "https://tickets.cinemacity.cz/api/order/224521",
-  "ratio": 0.026,
+  "ratio": 0.0208,
   "sold_out": false,
   "when": "2026-08-23T16:40:00"
  },
