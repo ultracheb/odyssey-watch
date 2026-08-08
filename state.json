@@ -1,17 +1,9 @@
 {
- "220725": {
-  "film": "Odyssea",
-  "hall": "IMAX VOLVO",
-  "link": "https://tickets.cinemacity.cz/api/order/220725",
-  "ratio": 0.0156,
-  "sold_out": false,
-  "when": "2026-08-08T09:00:00"
- },
  "220730": {
   "film": "Odyssea",
   "hall": "IMAX VOLVO",
   "link": "https://tickets.cinemacity.cz/api/order/220730",
-  "ratio": 0.0182,
+  "ratio": 0.0156,
   "sold_out": false,
   "when": "2026-08-08T12:50:00"
  },
@@ -51,7 +43,7 @@
   "film": "Odyssea",
   "hall": "IMAX VOLVO",
   "link": "https://tickets.cinemacity.cz/api/order/220735",
-  "ratio": 0.0156,
+  "ratio": 0.0182,
   "sold_out": false,
   "when": "2026-08-09T16:40:00"
  },
@@ -291,7 +283,7 @@
   "film": "Odyssea",
   "hall": "IMAX VOLVO",
   "link": "https://tickets.cinemacity.cz/api/order/224495",
-  "ratio": 0.0416,
+  "ratio": 0.0364,
   "sold_out": false,
   "when": "2026-08-17T09:00:00"
  },
@@ -427,7 +419,7 @@
   "film": "Odyssea",
   "hall": "IMAX VOLVO",
   "link": "https://tickets.cinemacity.cz/api/order/224512",
-  "ratio": 0.039,
+  "ratio": 0.0312,
   "sold_out": false,
   "when": "2026-08-21T12:50:00"
  },
