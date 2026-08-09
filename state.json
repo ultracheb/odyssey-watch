@@ -1,12 +1,4 @@
 {
- "220733": {
-  "film": "Odyssea",
-  "hall": "IMAX VOLVO",
-  "link": "https://tickets.cinemacity.cz/api/order/220733",
-  "ratio": 0.0156,
-  "sold_out": false,
-  "when": "2026-08-09T09:00:00"
- },
  "220734": {
   "film": "Odyssea",
   "hall": "IMAX VOLVO",
