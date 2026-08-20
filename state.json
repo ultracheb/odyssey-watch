@@ -1,12 +1,4 @@
 {
- "224508": {
-  "film": "Odyssea",
-  "hall": "IMAX VOLVO",
-  "link": "https://tickets.cinemacity.cz/api/order/224508",
-  "ratio": 0.0156,
-  "sold_out": false,
-  "when": "2026-08-20T12:50:00"
- },
  "224509": {
   "film": "Odyssea",
   "hall": "IMAX VOLVO",
@@ -131,7 +123,7 @@
   "film": "Odyssea",
   "hall": "IMAX VOLVO",
   "link": "https://tickets.cinemacity.cz/api/order/224524",
-  "ratio": 0.0156,
+  "ratio": 0.0208,
   "sold_out": false,
   "when": "2026-08-24T12:50:00"
  },
@@ -195,7 +187,7 @@
   "film": "Odyssea",
   "hall": "IMAX VOLVO",
   "link": "https://tickets.cinemacity.cz/api/order/233309",
-  "ratio": 0.1558,
+  "ratio": 0.1532,
   "sold_out": false,
   "when": "2026-08-26T12:50:00"
  },
@@ -203,7 +195,7 @@
   "film": "Odyssea",
   "hall": "IMAX VOLVO",
   "link": "https://tickets.cinemacity.cz/api/order/233310",
-  "ratio": 0.0519,
+  "ratio": 0.0494,
   "sold_out": false,
   "when": "2026-08-26T16:40:00"
  },
@@ -339,7 +331,7 @@
   "film": "Odyssea",
   "hall": "IMAX VOLVO",
   "link": "https://tickets.cinemacity.cz/api/order/233327",
-  "ratio": 0.161,
+  "ratio": 0.1584,
   "sold_out": false,
   "when": "2026-08-31T12:50:00"
  },
@@ -387,7 +379,7 @@
   "film": "Odyssea",
   "hall": "IMAX VOLVO",
   "link": "https://tickets.cinemacity.cz/api/order/233333",
-  "ratio": 0.1169,
+  "ratio": 0.1117,
   "sold_out": false,
   "when": "2026-09-01T20:30:00"
  },
@@ -395,7 +387,7 @@
   "film": "Odyssea",
   "hall": "IMAX VOLVO",
   "link": "https://tickets.cinemacity.cz/api/order/233334",
-  "ratio": 0.3169,
+  "ratio": 0.3065,
   "sold_out": false,
   "when": "2026-09-02T11:00:00"
  },
@@ -403,7 +395,7 @@
   "film": "Odyssea",
   "hall": "IMAX VOLVO",
   "link": "https://tickets.cinemacity.cz/api/order/233335",
-  "ratio": 0.2052,
+  "ratio": 0.2,
   "sold_out": false,
   "when": "2026-09-02T15:00:00"
  },
@@ -451,7 +443,7 @@
   "film": "Odyssea",
   "hall": "IMAX VOLVO",
   "link": "https://tickets.cinemacity.cz/api/order/233341",
-  "ratio": 0.2442,
+  "ratio": 0.239,
   "sold_out": false,
   "when": "2026-09-04T12:50:00"
  },
