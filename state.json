@@ -283,7 +283,7 @@
   "film": "Odyssea",
   "hall": "IMAX VOLVO",
   "link": "https://tickets.cinemacity.cz/api/order/233323",
-  "ratio": 0.0831,
+  "ratio": 0.0805,
   "sold_out": false,
   "when": "2026-08-30T12:50:00"
  },
