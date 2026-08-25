@@ -1,19 +1,11 @@
 {
- "233305": {
+ "233306": {
   "film": "Odyssea",
   "hall": "IMAX VOLVO",
-  "link": "https://tickets.cinemacity.cz/api/order/233305",
-  "ratio": 0.0156,
+  "link": "https://tickets.cinemacity.cz/api/order/233306",
+  "ratio": 0.0208,
   "sold_out": false,
-  "when": "2026-08-25T12:50:00"
- },
- "233307": {
-  "film": "Odyssea",
-  "hall": "IMAX VOLVO",
-  "link": "https://tickets.cinemacity.cz/api/order/233307",
-  "ratio": 0.0156,
-  "sold_out": false,
-  "when": "2026-08-25T20:30:00"
+  "when": "2026-08-25T16:40:00"
  },
  "233308": {
   "film": "Odyssea",
@@ -43,7 +35,7 @@
   "film": "Odyssea",
   "hall": "IMAX VOLVO",
   "link": "https://tickets.cinemacity.cz/api/order/233311",
-  "ratio": 0.0208,
+  "ratio": 0.0182,
   "sold_out": false,
   "when": "2026-08-26T20:30:00"
  },
@@ -75,7 +67,7 @@
   "film": "Odyssea",
   "hall": "IMAX VOLVO",
   "link": "https://tickets.cinemacity.cz/api/order/233315",
-  "ratio": 0.0468,
+  "ratio": 0.0364,
   "sold_out": false,
   "when": "2026-08-28T12:50:00"
  },
@@ -203,7 +195,7 @@
   "film": "Odyssea",
   "hall": "IMAX VOLVO",
   "link": "https://tickets.cinemacity.cz/api/order/233331",
-  "ratio": 0.1844,
+  "ratio": 0.1792,
   "sold_out": false,
   "when": "2026-09-01T12:50:00"
  },
@@ -259,7 +251,7 @@
   "film": "Odyssea",
   "hall": "IMAX VOLVO",
   "link": "https://tickets.cinemacity.cz/api/order/233338",
-  "ratio": 0.0987,
+  "ratio": 0.0935,
   "sold_out": false,
   "when": "2026-09-03T16:40:00"
  },
@@ -283,7 +275,7 @@
   "film": "Odyssea",
   "hall": "IMAX VOLVO",
   "link": "https://tickets.cinemacity.cz/api/order/233341",
-  "ratio": 0.1714,
+  "ratio": 0.1662,
   "sold_out": false,
   "when": "2026-09-04T12:50:00"
  },
@@ -363,7 +355,7 @@
   "film": "Odyssea",
   "hall": "IMAX VOLVO",
   "link": "https://tickets.cinemacity.cz/api/order/233351",
-  "ratio": 0.0935,
+  "ratio": 0.0909,
   "sold_out": false,
   "when": "2026-09-06T20:30:00"
  },
@@ -371,7 +363,7 @@
   "film": "Odyssea",
   "hall": "IMAX VOLVO",
   "link": "https://tickets.cinemacity.cz/api/order/233352",
-  "ratio": 0.2468,
+  "ratio": 0.2416,
   "sold_out": false,
   "when": "2026-09-07T09:00:00"
  },
